@@ -1,8 +1,0 @@
-# Ignore PyCharm project files
-../.idea/
-
-# Ignore SQLite database file
-*.sqlite3
-
-# Ignore Python bytecode files
-*.pyc
